@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversor de Monedas</string>
+    <string name="currency_converter">Conversor de Monedas</string>
+    <string name="from_currency">Desde</string>
+    <string name="to_currency">Hacia</string>
+    <string name="amount_hint">0.00</string>
+    <string name="swap_currencies">Intercambiar</string>
+    <string name="clear">Limpiar</string>
+    <string name="history">Historial</string>
+    <string name="clear_history">Limpiar Historial</string>
+    <string name="quick_actions">Acciones Rápidas</string>
+    <string name="conversion_history">Historial de Conversiones</string>
+</resources>
