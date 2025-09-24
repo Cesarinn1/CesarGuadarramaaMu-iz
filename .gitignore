@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 git add .*.iml
 .gradle
 /local.properties
@@ -13,3 +14,12 @@ git add .*.iml
 .externalNativeBuild
 .cxx
 local.properties
+=======
+echo "*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures" > .gitignore
+>>>>>>> f34126f178dad74ba1bd455ea5889073f5115bc5
